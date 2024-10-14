@@ -1,6 +1,8 @@
 <h2>Hello, world</h2>
 
-<img title="representation" src="https://i.ibb.co/crt97Vj/office-sirens-in-the-wild.gif">
+<img  title="representation" src="[https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif](https://i.pinimg.com/originals/84/63/57/846357f980e60afb13faff79a3a30e85.jpg)" style="float: right;" width="200">
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nadjalukashevich/)
 [![Gmail Badge](https://img.shields.io/badge/-lukashevichnadja@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lukashevichnadja@gmail.com)](mailto:lukashevichnadja@gmail.com)
 
