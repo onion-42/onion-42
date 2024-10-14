@@ -1,7 +1,6 @@
 <h2>Hello, world</h2>
 
-<img src="https://i.ibb.co/crt97Vj/office-sirens-in-the-wild.gif" style="float: right;" width="200">
-
+<img title="representation" src="https://i.ibb.co/crt97Vj/office-sirens-in-the-wild.gif">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nadjalukashevich/)
 [![Gmail Badge](https://img.shields.io/badge/-lukashevichnadja@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lukashevichnadja@gmail.com)](mailto:lukashevichnadja@gmail.com)
 
