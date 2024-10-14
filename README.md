@@ -1,6 +1,6 @@
 <h2>Hello, world</h2>
 
-<img  title="representation" src="https://i.pinimg.com/originals/84/63/57/846357f980e60afb13faff79a3a30e85.jpg" style="float: right;" width="200">
+<img  title="representation" src="https://i.ibb.co/crt97Vj/office-sirens-in-the-wild.gif" style="float: right;" width="200">
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nadjalukashevich/)
