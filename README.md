@@ -2,7 +2,7 @@
 
 <img  title="representation" src="office sirens in the wild.gif" style="float: right;" width="200">
 
-I am Nadja Lukashevich. Born in Tashkent, educated in Moacow, I'm currently working as RnD Bioinformatician (middle) in BostonGene LLC, Armenia, Yerevan. Always excited to learn and explore new things.
+I am Nadja Lukashevich. Born in Tashkent, educated in Moscow, I'm currently working as RnD Bioinformatician (middle) in BostonGene LLC, Armenia, Yerevan. Always excited to learn and explore new things.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nadjalukashevich/)
 [![Gmail Badge](https://img.shields.io/badge/-lukashevichnadja@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lukashevichnadja@gmail.com)](mailto:lukashevichnadja@gmail.com)
