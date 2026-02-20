@@ -11,4 +11,4 @@ I use daily: python (pandas, numpy, sklearn, pytorch, scipy, lifelines, etc).
 
 I also use often: R (tidyverse), bash (dir management and parsing). 
 
-[My CV.](https://docs.google.com/document/d/1ndkMwnWLnNeKi7-ZI60ClWE48p0pCznIyQlz3LqDqmA/edit?usp=sharing](https://docs.google.com/document/d/1zdmaVCmE4K4eAEKqcB4cM6bFINIPz8IRzwAF9J7VCcQ/edit?usp=sharing)
+[My CV.](https://docs.google.com/document/d/1ndkMwnWLnNeKi7-ZI60ClWE48p0pCznIyQlz3LqDqmA/edit?usp=sharing)
